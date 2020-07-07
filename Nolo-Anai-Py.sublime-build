@@ -1,0 +1,16 @@
+{
+	"cmd": ["C:\\Program Files (x86)\\Python38-32\\python.exe", "-u", "$file"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.python",
+	"env": {"PYTHONIOENCODING": "utf-8"},
+
+	"variants":
+    [
+        {
+            "name":"make",
+            "shell": true,
+            "cmd": ["start","cmd","/k", "C:\\Program Files (x86)\\Python38-32\\python.exe", "-u", "$file"],
+            "working_dir": "${file_path}",
+        }
+    ]
+}
