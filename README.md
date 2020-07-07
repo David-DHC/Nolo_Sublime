@@ -8,5 +8,5 @@ Nolo自制的小东西里，还算能入眼的都上传在这儿。客官如果�
 <img src = https://github.com/Estrellas-NoloAnai-Ding/Noloanaire-Local/blob/master/Screenshots%20in%20'readme.md'/WeChat%20Image_20200618212308.png > 
 <img src = https://github.com/Estrellas-NoloAnai-Ding/Noloanaire-Local/blob/master/Screenshots%20in%20'readme.md'/WeChat%20Image_202006182123081.png>
 
-<h3> Sublime Build System for Python </h3> （20.07.07） 
+<h3> Nolo-Anai-Py.sublime-build </h3> （20.07.07） 
   这是个Nolo配置的Build System。可在Sublime中调用命令行cmd.exe实现python运行。
