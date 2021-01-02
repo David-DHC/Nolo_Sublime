@@ -13,3 +13,5 @@ Nolo自制的小东西里，还算能入眼的都上传在这儿。客官如果�
 
 <h3> Noloanaire.sublime-color-scheme </h3> （21.01.02）
   之前那个配色方案的暖色系版本，灵感仍然来自Anaire曾经推给我的那些Monet的画。
+配图：
+<img src = https://github.com/David-DHC/Noloanaire-Local/blob/master/Screenshots%20in%20'readme.md'/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20210102191408.png>
